@@ -12,6 +12,9 @@ you can refer the files for the following:
 - project.sqlite for database file
 
 also note that  admin password is admin if you setup this project in your local system.
+you can see how the project work [here](https://user-images.githubusercontent.com/51120790/118055075-0df3f680-b3a5-11eb-8260-4353ca548ad2.mp4)
+
+
 
 <h1 align=center> Project Admin ❤️ </h1>
 <p align="center">
